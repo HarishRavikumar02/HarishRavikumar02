@@ -1,10 +1,6 @@
 # 👋 Hi, I’m Harish Ravikumar
 
-**Data Analyst | Data Scientist | Applied Machine Learning & NLP**
-
-I build end-to-end, production-ready data and machine learning systems — from data engineering and experimentation to scalable deployment and real-world impact.
-
-I have hands-on experience across analytics, machine learning, NLP, recommendation systems, cloud deployment, and MLOps, with projects spanning finance, retail, scientific text mining, and personalization.
+Results-focused Data Analyst with experience building automated data workflows, predictive models, and Power BI dashboards that drive operational and financial impact. Improved forecasting accuracy, reduced manual reporting time, and enhanced KPI visibility for business teams. Strong technical stack across Python, SQL, ML, and cloud-based analytics.
 
 ---
 
@@ -60,6 +56,13 @@ I have hands-on experience across analytics, machine learning, NLP, recommendati
 
 ---
 
+## 🎓 Education
+
+**MSc Data Science** – University of Surrey, UK (2023–2024)  
+**B.E. Computer Science & Engineering** – Rajalakshmi Institute of Technology, Chennai (2019–2023)
+
+---
+
 ## 📌 What sets my work apart
 
 I focus on building complete, reproducible and deployment-ready machine learning systems.  
@@ -76,10 +79,5 @@ My projects emphasize proper experimentation, strong evaluation practices, scala
 - Cloud-native ML platforms  
 
 ---
-
-## 🎓 Education
-
-**MSc Data Science** – University of Surrey, UK (2023–2024)  
-**B.E. Computer Science & Engineering** – Rajalakshmi Institute of Technology, Chennai (2019–2023), CGPA: 8.6/10
 
 ⭐ Feel free to explore the repositories and reach out if you’d like to collaborate.
